@@ -1,0 +1,47 @@
+
+#materiale_aggiuntivo, #descrizione_problemi {
+	white-space: pre-wrap;
+	border: 1px solid #DFDFDF;
+}
+
+.alta-priority {
+    position: absolute;
+    top: 4px;
+    left: -28px;
+    color: red;
+    font-weight: bold;
+}
+
+#id_assistenza_badge, #id_assistenza {
+	padding: 6px !important;
+	font-size: .90em !important;
+}
+
+#print_diagnosi {
+	display: none;
+}
+
+.login-section {
+	background-image: radial-gradient( circle farthest-corner at 50% 50%,  rgba(173,0,171,1) 8.3%, rgba(15,51,92,1) 79.4% );
+}
+
+.btn-action {
+	width: 44px;
+}
+
+.badge-stato {
+	padding: 7px;
+	letter-spacing: 1px;
+}
+
+.btn-suggerimento {
+	color: #fff;
+    background-color: #4d4d4d;
+    border-color: #4d4d4d;
+}
+
+.btn-allegato {
+	position: absolute;
+    top: 125px;
+    right: 38px;
+}
